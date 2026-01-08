@@ -57,6 +57,6 @@ I value:
 
 ## Get in touch
 
-- 💼 LinkedIn: linkedin.com/in/alexsmithers/  
+- 💼 LinkedIn: [linkedin.com/in/alexsmithers/ ](https://www.linkedin.com/in/alexsmithers/) 
 - 📂 GitHub: you’re already here 🙂
 
