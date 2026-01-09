@@ -1,8 +1,10 @@
 # Hi, I’m Alex 👋
 
-I’m currently upskilling into **data quality, risk analysis, and cybersecurity-adjacent analytics**, with a focus on how incomplete or imperfect data affects real-world decision-making.
+I’m building a technical foundation in data analysis, programming, and cybersecurity-aware risk assessment, with a focus on how data- and AI-driven systems behave in real organisational settings.
 
-My background includes analytical, policy-adjacent, and operational work, and I’m now building **public, well-documented projects** to develop practical technical skills and judgement.
+My work centres on understanding how incomplete, imperfect, or poorly governed data affects decisions — and how those risks intersect with system design, security, and misuse.
+
+I’m developing this through public, well-documented projects that involve hands-on implementation as well as analysis, with the aim of being effective in technically grounded roles while building toward longer-term work in technology risk, governance, and decision-making.
 
 ---
 
